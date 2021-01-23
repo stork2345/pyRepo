@@ -1,1 +1,2 @@
 # pyRepo
+self test
